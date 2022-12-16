@@ -1,1 +1,1 @@
-# first-dotnet-postgresql-api-project
+# .Net-PostgreSQL API Project with Entity Core Framework

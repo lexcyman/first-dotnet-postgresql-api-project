@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/PostgresDb.props" />
+</Project>
